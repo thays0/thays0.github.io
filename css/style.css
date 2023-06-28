@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    padding: 40px;
+}
+
+#img {
+    width: 100%;
+    height: auto;
+    margin-top: 40px;
+    border-radius: 30px;
+}
